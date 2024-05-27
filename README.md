@@ -9,7 +9,7 @@ https://basitl-liste.netlify.app/
 - CSS
 - JavaScript(ES6+)
 
- Proje GİF :
+# Proje GİF :
 ![Zight Recording 2024-5-27 at 13 32 23](https://github.com/emrah-akdag/Listeleme-Projesi/assets/150621750/a77ea6e6-38ae-4dd3-a0b0-79e30b15612e)
 
 
